@@ -9,6 +9,9 @@ function App() {
     <>
     <Header />
     <Quiz />
+    <p className="flex justify-center border-0 items-center mt-4 text-white">
+        © 2026 Qusai Alhassany. All rights reserved.
+    </p>
     </>
   )
 }
